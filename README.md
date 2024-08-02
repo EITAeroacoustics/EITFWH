@@ -4,7 +4,9 @@ EITFWH是一款专门用于气动声学领域的计算软件，基于Ffowcs Will
 
 目前FW-H核心求解器全部基于C++开发，支持MPI并行，具有解决实际工程的潜力。
 
-## [用户手册](https://github.com/EITAeroacoustics/EITFWH-Doc)
+## [参考资料](https://github.com/EITAeroacoustics/EITFWH-Doc)
+- [环境搭建](https://github.com/EITAeroacoustics/EITFWH-Doc/EITFWH_develop_note.pdf)
+- [用户手册](https://github.com/EITAeroacoustics/EITFWH-Doc/EITFWH_userguide.pdf)
 
 ## 未来计划
 - Linux环境用CMake管理
