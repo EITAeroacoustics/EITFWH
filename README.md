@@ -24,3 +24,8 @@ EITFWH是一款专门用于气动声学领域的计算软件，基于Ffowcs Will
 - 团队主页: [aeroacoustics.cn](aeroacoustics.cn) 
 - 电子邮箱: hjiang@eitech.edu.cn 
 - 通讯地址: 浙江省宁波市镇海区庄市街道同心路 568 号
+
+## 更新内容
+- 添加程序运行模块选择
+- 3D：Time-domain，Frequency-domain；
+- 2D：Frequency-domain；
